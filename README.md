@@ -5,7 +5,7 @@
 - 📫 How to reach me a my email fido.egd2020@gmail.com
 - 😄 Pronouns: fido
 - ⚡ Fun fact: 
-If I find the wacho, nothing stops me
+Try even if it's in Chinese
 
 <!---
 fido2024/fido2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
